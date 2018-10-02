@@ -11,7 +11,7 @@
   <li>Run the command: "docker run -p 8080:8080 spring-server"</li>
   <li>Open your Docker Virtual Machine.</li>
   <li>Look for the tag "spring-server".</li>
-  <li>Click RUN in the tab, and wait for a web preview.</li>
+  <li>Click "Start" in the tab, and wait for a web preview.</li>
   <li>Click the arrow to view in browser.</li>
 </ol>
 <h4>If you are experiencing difficulties, contact me via my email <a href="mailto:vicariowilliams@gmail.com">here</a>.</h4>
